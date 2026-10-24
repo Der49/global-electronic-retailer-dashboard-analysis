@@ -15,3 +15,12 @@ Access through:
 https://mavenanalytics.io/data-playground/global-electronics-retailer
 
 ---
+
+## 🖼️ Small Preview
+
+
+<img width="4078" height="2253" alt="Global_Electronics_Dashboard" src="https://github.com/user-attachments/assets/40852225-97f9-45c5-8c50-8a727d33de58" />
+
+
+---
+
