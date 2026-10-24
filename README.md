@@ -21,6 +21,11 @@ https://mavenanalytics.io/data-playground/global-electronics-retailer
 
 <img width="4078" height="2253" alt="Global_Electronics_Dashboard" src="https://github.com/user-attachments/assets/40852225-97f9-45c5-8c50-8a727d33de58" />
 
+This Global Electronic retailer Dashboard Analysis as the Main Project File includes:
+- Data Cleaning Part
+- Updated Tables
+- Data Report
+- Dashboard with Insights and Recommendations
 
 ---
 
@@ -48,9 +53,9 @@ https://mavenanalytics.io/data-playground/global-electronics-retailer
 
 ```
 global-electronic-retailer-dashboard-analysis/
-├── 
+├── Global Electronic retailer Dashboard Analysis    # Main file  (Data Cleaning, Analysis, Dashboard)
 ├── README.md            
-├── Customers.csv           # All 5 csv files are datasets used   
+├── Customers.csv                                    # All 5 csv files are datasets used   
 ├── Data_Dictionary.csv                  
 ├── Products.csv         
 ├── Sales.csv    
